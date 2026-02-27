@@ -55,7 +55,7 @@ the a snapshot of GLFW included in the archive, if you wish, but pre-compiled
 packages should be available through package management on most distributions.
 
 Once you have everything, you should enter the "build" directory in the source
-arvhive and issue:
+archive and issue:
 
     cmake ..
     make
